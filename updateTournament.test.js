@@ -1,0 +1,1 @@
+import { Torneos } from './../src/components/content/Torneos/index';
